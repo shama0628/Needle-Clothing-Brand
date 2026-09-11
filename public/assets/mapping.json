@@ -1,0 +1,186 @@
+[
+  {
+    "orig": "Classical Jersey/product 1.jpg",
+    "clean": "/assets/classical-jersey/product-1.jpg"
+  },
+  {
+    "orig": "Classical Jersey/product 2.jpg",
+    "clean": "/assets/classical-jersey/product-2.jpg"
+  },
+  {
+    "orig": "Classical Jersey/product 3.jpg",
+    "clean": "/assets/classical-jersey/product-3.jpg"
+  },
+  {
+    "orig": "Co-ord Sets/product 1.jpeg",
+    "clean": "/assets/coord-sets/product-1.jpeg"
+  },
+  {
+    "orig": "Co-ord Sets/product 2.jpeg",
+    "clean": "/assets/coord-sets/product-2.jpeg"
+  },
+  {
+    "orig": "Co-ord Sets/product 3.jpeg",
+    "clean": "/assets/coord-sets/product-3.jpeg"
+  },
+  {
+    "orig": "Co-ord Sets/product 4.jpeg",
+    "clean": "/assets/coord-sets/product-4.jpeg"
+  },
+  {
+    "orig": "Co-ord Sets/product 5.jpeg",
+    "clean": "/assets/coord-sets/product-5.jpeg"
+  },
+  {
+    "orig": "Co-ord Sets/product 6.jpeg",
+    "clean": "/assets/coord-sets/product-6.jpeg"
+  },
+  {
+    "orig": "coverpages/coverpage 1.jpg",
+    "clean": "/assets/coverpages/coverpage-1.jpg"
+  },
+  {
+    "orig": "coverpages/dresses coverpage.png",
+    "clean": "/assets/coverpages/dresses-coverpage.png"
+  },
+  {
+    "orig": "coverpages/plain modal coverpage.png",
+    "clean": "/assets/coverpages/plain-modal-coverpage.png"
+  },
+  {
+    "orig": "Dresses/product 1.jpeg",
+    "clean": "/assets/dresses/product-1.jpeg"
+  },
+  {
+    "orig": "Dresses/product 2.jpeg",
+    "clean": "/assets/dresses/product-2.jpeg"
+  },
+  {
+    "orig": "Dresses/product 3.jpeg",
+    "clean": "/assets/dresses/product-3.jpeg"
+  },
+  {
+    "orig": "Dresses/product 4.jpeg",
+    "clean": "/assets/dresses/product-4.jpeg"
+  },
+  {
+    "orig": "Dresses/product 5.jpeg",
+    "clean": "/assets/dresses/product-5.jpeg"
+  },
+  {
+    "orig": "Hijab magnets/product 1.jpg",
+    "clean": "/assets/hijab-magnets/product-1.jpg"
+  },
+  {
+    "orig": "Hijab magnets/product 2.jpg",
+    "clean": "/assets/hijab-magnets/product-2.jpg"
+  },
+  {
+    "orig": "Hijab magnets/product 3.jpg",
+    "clean": "/assets/hijab-magnets/product-3.jpg"
+  },
+  {
+    "orig": "Hijab magnets/product 4.jpg",
+    "clean": "/assets/hijab-magnets/product-4.jpg"
+  },
+  {
+    "orig": "Hijab magnets/product 5.jpg",
+    "clean": "/assets/hijab-magnets/product-5.jpg"
+  },
+  {
+    "orig": "Hijab pins/porduct  1.jpg",
+    "clean": "/assets/hijab-pins/porduct-1.jpg"
+  },
+  {
+    "orig": "Partywear Hijabs/product 1.jpeg",
+    "clean": "/assets/partywear-hijabs/product-1.jpeg"
+  },
+  {
+    "orig": "Partywear Hijabs/product 2.jpeg",
+    "clean": "/assets/partywear-hijabs/product-2.jpeg"
+  },
+  {
+    "orig": "Partywear Hijabs/product 3.jpg",
+    "clean": "/assets/partywear-hijabs/product-3.jpg"
+  },
+  {
+    "orig": "Partywear Hijabs/product 4.jpeg",
+    "clean": "/assets/partywear-hijabs/product-4.jpeg"
+  },
+  {
+    "orig": "Partywear Hijabs/product 5.jpg",
+    "clean": "/assets/partywear-hijabs/product-5.jpg"
+  },
+  {
+    "orig": "Plain modal/product 1 .jpeg",
+    "clean": "/assets/plain-modal/product-1-.jpeg"
+  },
+  {
+    "orig": "Plain modal/product 2.jpeg",
+    "clean": "/assets/plain-modal/product-2.jpeg"
+  },
+  {
+    "orig": "Plain modal/product 3.jpeg",
+    "clean": "/assets/plain-modal/product-3.jpeg"
+  },
+  {
+    "orig": "Printed Modal/product 1.jpeg",
+    "clean": "/assets/printed-modal/product-1.jpeg"
+  },
+  {
+    "orig": "Printed Modal/product 10.jpg",
+    "clean": "/assets/printed-modal/product-10.jpg"
+  },
+  {
+    "orig": "Printed Modal/product 11.jpg",
+    "clean": "/assets/printed-modal/product-11.jpg"
+  },
+  {
+    "orig": "Printed Modal/product 12.jpg",
+    "clean": "/assets/printed-modal/product-12.jpg"
+  },
+  {
+    "orig": "Printed Modal/product 13.jpg",
+    "clean": "/assets/printed-modal/product-13.jpg"
+  },
+  {
+    "orig": "Printed Modal/product 2.jpeg",
+    "clean": "/assets/printed-modal/product-2.jpeg"
+  },
+  {
+    "orig": "Printed Modal/product 3.jpeg",
+    "clean": "/assets/printed-modal/product-3.jpeg"
+  },
+  {
+    "orig": "Printed Modal/product 4.jpeg",
+    "clean": "/assets/printed-modal/product-4.jpeg"
+  },
+  {
+    "orig": "Printed Modal/product 5 .jpg",
+    "clean": "/assets/printed-modal/product-5-.jpg"
+  },
+  {
+    "orig": "Printed Modal/product 6.jpg",
+    "clean": "/assets/printed-modal/product-6.jpg"
+  },
+  {
+    "orig": "Printed Modal/product 7.jpg",
+    "clean": "/assets/printed-modal/product-7.jpg"
+  },
+  {
+    "orig": "Printed Modal/product 8.jpg",
+    "clean": "/assets/printed-modal/product-8.jpg"
+  },
+  {
+    "orig": "Printed Modal/product 9.jpg",
+    "clean": "/assets/printed-modal/product-9.jpg"
+  },
+  {
+    "orig": "Tops/product 1.jpeg",
+    "clean": "/assets/tops/product-1.jpeg"
+  },
+  {
+    "orig": "Tops/product 2.jpeg",
+    "clean": "/assets/tops/product-2.jpeg"
+  }
+]

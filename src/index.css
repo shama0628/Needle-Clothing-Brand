@@ -1,0 +1,115 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --theme-background: #F8F6F1;
+    --theme-surface: #FFFFFF;
+    --theme-surface-secondary: #F4F0E8;
+    --theme-surface-subtle: #EDE7DD;
+    --theme-text: #23171E;
+    --theme-text-muted: #6A5863;
+    --theme-border: rgba(52, 35, 44, 0.12);
+    --theme-border-strong: rgba(52, 35, 44, 0.25);
+    --theme-accent: #34232C;
+    --theme-accent-contrast: #F8F6F1;
+
+    /* Backward compatibility mappings */
+    --background: var(--theme-background);
+    --surface: var(--theme-surface);
+    --surface-subtle: var(--theme-surface-subtle);
+    --text: var(--theme-text);
+    --muted-text: var(--theme-text-muted);
+    --border: var(--theme-border);
+    --border-strong: var(--theme-border-strong);
+    --accent: var(--theme-accent);
+    --accent-contrast: var(--theme-accent-contrast);
+  }
+
+  [data-theme="dark"], .dark {
+    --theme-background: #140C12;
+    --theme-surface: #1E121B;
+    --theme-surface-secondary: #271823;
+    --theme-surface-subtle: #311F2D;
+    --theme-text: #F8F6F1;
+    --theme-text-muted: #BCAEBA;
+    --theme-border: rgba(236, 229, 217, 0.14);
+    --theme-border-strong: rgba(236, 229, 217, 0.28);
+    --theme-accent: #ECE5D9;
+    --theme-accent-contrast: #140C12;
+
+    /* Backward compatibility mappings */
+    --background: var(--theme-background);
+    --surface: var(--theme-surface);
+    --surface-subtle: var(--theme-surface-subtle);
+    --text: var(--theme-text);
+    --muted-text: var(--theme-text-muted);
+    --border: var(--theme-border);
+    --border-strong: var(--theme-border-strong);
+    --accent: var(--theme-accent);
+    --accent-contrast: var(--theme-accent-contrast);
+  }
+
+  html {
+    scroll-behavior: smooth;
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  }
+
+  body {
+    background-color: var(--background);
+    color: var(--text);
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    overflow-x: hidden;
+    transition: background-color 200ms ease, color 200ms ease;
+  }
+
+  /* Editorial typography styles */
+  h1, h2, h3, h4, h5, h6 {
+    letter-spacing: -0.02em;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #ECE5D9;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #34232C;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #23171E;
+}
+
+/* Transitions */
+.drawer-enter {
+  transform: translateX(-100%);
+}
+.drawer-enter-active {
+  transform: translateX(0%);
+  transition: transform 300ms cubic-bezier(0.16, 1, 0.3, 1);
+}
+.drawer-exit {
+  transform: translateX(0%);
+}
+.drawer-exit-active {
+  transform: translateX(-100%);
+  transition: transform 300ms cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* Hide scrollbar for clean carousels */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
